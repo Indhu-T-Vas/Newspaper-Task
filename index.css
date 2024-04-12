@@ -1,0 +1,42 @@
+.container .hr {
+  border-top: 2px solid black;
+  margin: auto;
+}
+.container h1 {
+  text-align-last: justify;
+  font-size: 90px;
+  font-weight: bolder;
+  letter-spacing: 0.22em;
+}
+.container .h5 {
+  font-size: 20px;
+  color: brown;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  line-height: 1.5;
+}
+.container .label {
+  background-color: brown;
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  color: white;
+  font-style: italic;
+}
+.container .ipo {
+  height: 250px;
+}
+.container p {
+  text-align: justify;
+}
+.container .box {
+  border-radius: 0px;
+  border-color: white;
+}
+.container .h3 {
+  text-align: justify;
+  font-weight: bold;
+  padding-top: 8px;
+  padding-bottom: 15px;
+}
